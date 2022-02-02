@@ -1,0 +1,3 @@
+type=command
+command=sh /home/rec/azkaban-jobs/Ankai/DIN_model/shell/run_faiss.sh
+dependencies=job01-loaddata
